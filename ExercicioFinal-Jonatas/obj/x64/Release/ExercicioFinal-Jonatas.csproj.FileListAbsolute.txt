@@ -1,0 +1,12 @@
+C:\Users\devacademy_20\Desktop\ExercicioFinal-Jonatas\ExercicioFinal-Jonatas\bin\x64\Release\addon_Icon.png
+C:\Users\devacademy_20\Desktop\ExercicioFinal-Jonatas\ExercicioFinal-Jonatas\bin\x64\Release\ExercicioFinal-Jonatas.exe.config
+C:\Users\devacademy_20\Desktop\ExercicioFinal-Jonatas\ExercicioFinal-Jonatas\bin\x64\Release\ExercicioFinal-Jonatas.exe
+C:\Users\devacademy_20\Desktop\ExercicioFinal-Jonatas\ExercicioFinal-Jonatas\bin\x64\Release\ExercicioFinal-Jonatas.pdb
+C:\Users\devacademy_20\Desktop\ExercicioFinal-Jonatas\ExercicioFinal-Jonatas\bin\x64\Release\Newtonsoft.Json.dll
+C:\Users\devacademy_20\Desktop\ExercicioFinal-Jonatas\ExercicioFinal-Jonatas\bin\x64\Release\SAPBusinessOneSDK.dll
+C:\Users\devacademy_20\Desktop\ExercicioFinal-Jonatas\ExercicioFinal-Jonatas\bin\x64\Release\Newtonsoft.Json.xml
+C:\Users\devacademy_20\Desktop\ExercicioFinal-Jonatas\ExercicioFinal-Jonatas\obj\x64\Release\ExercicioFinal-Jonatas.csproj.AssemblyReference.cache
+C:\Users\devacademy_20\Desktop\ExercicioFinal-Jonatas\ExercicioFinal-Jonatas\obj\x64\Release\ExercicioFinal-Jonatas.csproj.CoreCompileInputs.cache
+C:\Users\devacademy_20\Desktop\ExercicioFinal-Jonatas\ExercicioFinal-Jonatas\obj\x64\Release\ExercicioFinal-Jonatas.csproj.CopyComplete
+C:\Users\devacademy_20\Desktop\ExercicioFinal-Jonatas\ExercicioFinal-Jonatas\obj\x64\Release\ExercicioFinal-Jonatas.exe
+C:\Users\devacademy_20\Desktop\ExercicioFinal-Jonatas\ExercicioFinal-Jonatas\obj\x64\Release\ExercicioFinal-Jonatas.pdb

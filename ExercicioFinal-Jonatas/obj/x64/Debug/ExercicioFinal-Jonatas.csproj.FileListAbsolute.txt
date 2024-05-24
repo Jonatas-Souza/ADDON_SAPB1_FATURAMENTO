@@ -1,0 +1,24 @@
+C:\Users\Ramo\source\repos\ExercicioFinal-Jonatas\ExercicioFinal-Jonatas\bin\x64\Debug\addon_Icon.png
+C:\Users\Ramo\source\repos\ExercicioFinal-Jonatas\ExercicioFinal-Jonatas\bin\x64\Debug\ExercicioFinal-Jonatas.exe.config
+C:\Users\Ramo\source\repos\ExercicioFinal-Jonatas\ExercicioFinal-Jonatas\bin\x64\Debug\ExercicioFinal-Jonatas.exe
+C:\Users\Ramo\source\repos\ExercicioFinal-Jonatas\ExercicioFinal-Jonatas\bin\x64\Debug\ExercicioFinal-Jonatas.pdb
+C:\Users\Ramo\source\repos\ExercicioFinal-Jonatas\ExercicioFinal-Jonatas\bin\x64\Debug\Newtonsoft.Json.dll
+C:\Users\Ramo\source\repos\ExercicioFinal-Jonatas\ExercicioFinal-Jonatas\bin\x64\Debug\SAPBusinessOneSDK.dll
+C:\Users\Ramo\source\repos\ExercicioFinal-Jonatas\ExercicioFinal-Jonatas\bin\x64\Debug\Newtonsoft.Json.xml
+C:\Users\Ramo\source\repos\ExercicioFinal-Jonatas\ExercicioFinal-Jonatas\obj\x64\Debug\ExercicioFinal-Jonatas.csproj.AssemblyReference.cache
+C:\Users\Ramo\source\repos\ExercicioFinal-Jonatas\ExercicioFinal-Jonatas\obj\x64\Debug\ExercicioFinal-Jonatas.csproj.CoreCompileInputs.cache
+C:\Users\Ramo\source\repos\ExercicioFinal-Jonatas\ExercicioFinal-Jonatas\obj\x64\Debug\ExercicioFinal-Jonatas.csproj.CopyComplete
+C:\Users\Ramo\source\repos\ExercicioFinal-Jonatas\ExercicioFinal-Jonatas\obj\x64\Debug\ExercicioFinal-Jonatas.exe
+C:\Users\Ramo\source\repos\ExercicioFinal-Jonatas\ExercicioFinal-Jonatas\obj\x64\Debug\ExercicioFinal-Jonatas.pdb
+D:\Jônatas - SAP\DEV\ESTUDOS\TREINAMENTOS SDK SAP B1\CURSO SDK - ALEX VERGARI 2024\PROJETOS\ExercicioFinal-Jonatas\ExercicioFinal-Jonatas\bin\x64\Debug\addon_Icon.png
+D:\Jônatas - SAP\DEV\ESTUDOS\TREINAMENTOS SDK SAP B1\CURSO SDK - ALEX VERGARI 2024\PROJETOS\ExercicioFinal-Jonatas\ExercicioFinal-Jonatas\bin\x64\Debug\ExercicioFinal-Jonatas.exe.config
+D:\Jônatas - SAP\DEV\ESTUDOS\TREINAMENTOS SDK SAP B1\CURSO SDK - ALEX VERGARI 2024\PROJETOS\ExercicioFinal-Jonatas\ExercicioFinal-Jonatas\bin\x64\Debug\ExercicioFinal-Jonatas.exe
+D:\Jônatas - SAP\DEV\ESTUDOS\TREINAMENTOS SDK SAP B1\CURSO SDK - ALEX VERGARI 2024\PROJETOS\ExercicioFinal-Jonatas\ExercicioFinal-Jonatas\bin\x64\Debug\ExercicioFinal-Jonatas.pdb
+D:\Jônatas - SAP\DEV\ESTUDOS\TREINAMENTOS SDK SAP B1\CURSO SDK - ALEX VERGARI 2024\PROJETOS\ExercicioFinal-Jonatas\ExercicioFinal-Jonatas\bin\x64\Debug\Newtonsoft.Json.dll
+D:\Jônatas - SAP\DEV\ESTUDOS\TREINAMENTOS SDK SAP B1\CURSO SDK - ALEX VERGARI 2024\PROJETOS\ExercicioFinal-Jonatas\ExercicioFinal-Jonatas\bin\x64\Debug\SAPBusinessOneSDK.dll
+D:\Jônatas - SAP\DEV\ESTUDOS\TREINAMENTOS SDK SAP B1\CURSO SDK - ALEX VERGARI 2024\PROJETOS\ExercicioFinal-Jonatas\ExercicioFinal-Jonatas\bin\x64\Debug\Newtonsoft.Json.xml
+D:\Jônatas - SAP\DEV\ESTUDOS\TREINAMENTOS SDK SAP B1\CURSO SDK - ALEX VERGARI 2024\PROJETOS\ExercicioFinal-Jonatas\ExercicioFinal-Jonatas\obj\x64\Debug\ExercicioFinal-Jonatas.csproj.AssemblyReference.cache
+D:\Jônatas - SAP\DEV\ESTUDOS\TREINAMENTOS SDK SAP B1\CURSO SDK - ALEX VERGARI 2024\PROJETOS\ExercicioFinal-Jonatas\ExercicioFinal-Jonatas\obj\x64\Debug\ExercicioFinal-Jonatas.csproj.CoreCompileInputs.cache
+D:\Jônatas - SAP\DEV\ESTUDOS\TREINAMENTOS SDK SAP B1\CURSO SDK - ALEX VERGARI 2024\PROJETOS\ExercicioFinal-Jonatas\ExercicioFinal-Jonatas\obj\x64\Debug\ExercicioFinal-Jonatas.csproj.CopyComplete
+D:\Jônatas - SAP\DEV\ESTUDOS\TREINAMENTOS SDK SAP B1\CURSO SDK - ALEX VERGARI 2024\PROJETOS\ExercicioFinal-Jonatas\ExercicioFinal-Jonatas\obj\x64\Debug\ExercicioFinal-Jonatas.exe
+D:\Jônatas - SAP\DEV\ESTUDOS\TREINAMENTOS SDK SAP B1\CURSO SDK - ALEX VERGARI 2024\PROJETOS\ExercicioFinal-Jonatas\ExercicioFinal-Jonatas\obj\x64\Debug\ExercicioFinal-Jonatas.pdb
