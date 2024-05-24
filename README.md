@@ -3,7 +3,7 @@ Addon SAP B1 (Hana/SQL) - Assistente de emissão de nota fiscal de saída a part
 
 Projeto de estudo, exercício final do curso de desenvolvimento SAP B1 - DEV ACADEMY
 - Ambiente: Multiplataforma (HANA / SQL SERVER)
-- Tecnologias aplicadas: C# / .NET Framework 4.8 / Framework B1 Studio for Visual Studio / HttpClient / Newtonsoft.Json / Service Layer / UI API
+- Tecnologias aplicadas: C# / .NET Framework 4.8 / Framework B1 Studio for Visual Studio 2019 / HttpClient / Newtonsoft.Json / Service Layer / UI API
 - Instalador: Instalador leve (Extension manager)
 
 INICIALIZAÇÃO E MENUS
